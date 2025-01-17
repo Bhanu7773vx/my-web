@@ -404,6 +404,7 @@ span{
 }
   #burger{
     display: flex;
+      overflow-x: hidden;
   }
 #menuToggle
 {
