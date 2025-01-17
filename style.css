@@ -518,6 +518,7 @@ span{
 #menu
 { 
   position: absolute;
+  overflow-x: hidden;
   border-radius: 20px;
   max-width: 400px;
   width: 45vw;
